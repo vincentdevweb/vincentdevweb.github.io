@@ -1,0 +1,11 @@
+h1::after {
+    color: red;
+}
+
+.bodypainting {
+    color: aqua;
+}
+
+div p{
+    background-color: aquamarine;
+}

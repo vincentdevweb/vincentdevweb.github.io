@@ -1,0 +1,42 @@
+body{
+    background-color: lightgray;
+}
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: red;
+}
+
+#chronos{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(100, 94, 94);
+}
+  
+tr:nth-child(even) {
+    background-color: white;
+}
+
+table{
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: red;
+}
+
+#important_tr{
+    background-color: black;
+    color: white;
+}
