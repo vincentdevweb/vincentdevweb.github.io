@@ -34,9 +34,22 @@ img{
     border-style: solid;
     border-radius: 5px;
     border-color: red;
+    display: flex;
+    justify-content: center;
 }
 
 #important_tr{
     background-color: black;
     color: white;
+}
+
+#special{
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding: 1.5rem;
+    border: 2px dashed rgb(100, 40, 196);
+    text-align: justify;
+    color: rgb(100, 40, 196);
+    background-color: rgb(211, 211, 211);
 }
